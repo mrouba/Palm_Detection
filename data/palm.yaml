@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Palm_Trees']
+
+roboflow:
+  workspace: detectiongazflares-46m4e
+  project: palm_detection-tbcor
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/detectiongazflares-46m4e/palm_detection-tbcor/dataset/5
