@@ -1,5 +1,5 @@
 # Palm_Detection
-# Palm Detection using YOLOv5
+# Palm Detection using YOLOv5 🌴
 This repository contains code for palm detection using the YOLOv5 object detection framework. The dataset has been customized using Roboflow.
 
 ## Dataset Customization
